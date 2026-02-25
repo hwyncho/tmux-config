@@ -17,6 +17,8 @@ tmux configuration with true color support, vi-style keybindings, and a clean st
 | `prefix` + `r`       | Reload configuration                |
 | `prefix` + `-`       | Split pane vertically               |
 | `prefix` + `\`       | Split pane horizontally             |
+| `prefix` + `Tab`      | Switch to last active window        |
+| `prefix` + `Shift+Tab` | Switch to last active session      |
 | `prefix` + `h/j/k/l` | Navigate panes (left/down/up/right) |
 | `prefix` + `H/J/K/L` | Resize panes (left/down/up/right)   |
 | `Escape` (copy mode) | Cancel copy mode                    |
