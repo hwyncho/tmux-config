@@ -1,10 +1,10 @@
-# tmux-config
+# tmux Configuration
 
-Personal tmux configuration.
+tmux configuration with true color support, vi-style keybindings, and a clean status bar.
 
 ## Features
 
-- **General**: Scrollback buffer 10000 lines, reduced Escape delay, focus events enabled, system clipboard integration
+- **General**: Non-login shell (prevents duplicate PATH), scrollback buffer 10000 lines, reduced Escape delay, focus events enabled, system clipboard integration
 - **UI**: True color (24-bit) support, mouse enabled, windows/panes numbered from 1, automatic window renaming
 - **Keybindings**: `C-a` prefix, vi-style copy mode, vim-style pane navigation/resizing, config reload, current path preserved on split
 - **Statusline**: Session name (left), date/time/hostname (right), cyan-highlighted active window
